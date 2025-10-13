@@ -23,7 +23,6 @@ Your users should be able to:
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode *(optional)*
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
 
 **⚠️ NOTE ⚠️: Sometimes the REST Countries API can go down. We've added a `data.json` file with all the country data if you prefer to use that instead. However, please be aware that the data in the JSON file might not be up-to-date.**
 
